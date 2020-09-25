@@ -6,7 +6,7 @@
   - Data science
   - Software engineering
   - Blockchain
-  - <img align="left" alt="Java" width="16px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/4e8aaafbef3fd85ebcb42effd657344dbf098830/icons/bitcoin.svg" />Cryptocurrency
+  - Cryptocurrency
 
 ### Connect with me:
 
