@@ -1,5 +1,5 @@
 ## Hi there, I'm Alex
-<i class="fas fa-play-circle"></i>
+
 ### I am an Electrical and Computer Engineering graduate
 
 - My interests include:
@@ -20,6 +20,10 @@
 ### Languages and tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/4e8aaafbef3fd85ebcb42effd657344dbf098830/icons/python.svg" />
+<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/4e8aaafbef3fd85ebcb42effd657344dbf098830/icons/java.svg" />
+<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/4e8aaafbef3fd85ebcb42effd657344dbf098830/icons/cplusplus.svg" />
+<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/4e8aaafbef3fd85ebcb42effd657344dbf098830/icons/c.svg" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -34,7 +38,6 @@
 
 <br />
 
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" integrity="sha384-gfdkjb5BdAXd+lj+gudLWI+BXq4IuLW5IT+brZEZsLFm++aCMlF1V92rMkPaX4PP" crossorigin="anonymous">
 [website]: https://alexsoldin.github.io
 [twitter]: https://twitter.com/AlexSoldin
 [instagram]: https://www.instagram.com/alexsoldin/
