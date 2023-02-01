@@ -1,6 +1,6 @@
 ## Hi there, I'm Alex
 
-### I am an Electrical and Computer Engineering graduate
+### I hold a degree in Electrical and Computer Engineering
 
 - My interests include:
   - Data science
